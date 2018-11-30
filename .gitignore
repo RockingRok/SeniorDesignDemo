@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Models
+*.h5
+*.hdf5
+*.weights
+*.tar
+
 # Distribution / packaging
 .Python
 build/
